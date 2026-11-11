@@ -1,6 +1,6 @@
 # Atividade: agente inteligente avaliador de códigos Python
 
-OS arquivos disponíveis formam a base do projeto e devem ser organizados
+Os arquivos fornecidos formam a base do projeto e devem ser organizados
 conforme indicado na seção **Estrutura**, logo abaixo. As quatro ferramentas
 e os modelos de dados já estão prontos. Você deve implementar apenas 
 `agente.py`, para que o agente orquestre essas ferramentas e avalie 

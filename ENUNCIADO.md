@@ -44,8 +44,9 @@ Os seguintes arquivos são fornecidos:
 6. Para cada avaliação: atribuir pontuação por critério, justificar de forma
    objetiva, calcular nota final coerente com a rubrica (0 a 10), produzir
    feedback claro e chamar `registrar_avaliacao` com os dados do modelo `Avaliacao`.
-7. Não inventar códigos, critérios ou informações ausentes; comunicar arquivos
-   inexistentes, erros das ferramentas e informações insuficientes.
+7. Quando o usuário fizer perguntas sobre avaliações realizadas anteriormente na
+   mesma conversa, o agente deverá recuperar as informações correspondentes, sem
+   realizar novamente as avaliações nem repetir o registro dos resultados.
 8. **Não executar os códigos submetidos.** A avaliação é feita pela leitura do
    conteúdo da submissão e por análise de conformidade com os critérios.
 
