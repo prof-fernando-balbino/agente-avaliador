@@ -1,0 +1,22 @@
+Atividade 01 — Média de duas notas
+
+Enunciado
+
+Desenvolva um programa em Python que:
+
+1. Solicite ao usuário duas notas, que podem conter valores decimais.
+2. Calcule a média aritmética das notas.
+3. Informe "Aprovado" se a média for maior ou igual a 6,0; caso contrário, informe "Reprovado".
+
+Critérios de avaliação (10 pontos)
+
+- Leitura correta das duas notas: 2,0 pontos.
+- Cálculo correto da média aritmética: 3,0 pontos.
+- Uso correto da estrutura condicional e do limite de aprovação: 3,0 pontos.
+- Exibição adequada do resultado: 2,0 pontos.
+
+Orientações para avaliação
+
+Avalie a solução considerando os critérios e suas respectivas pontuações. Identifique os requisitos atendidos e não atendidos, justificando os descontos realizados. Não desconte pontos por diferenças de estilo que não comprometam o funcionamento do programa.
+
+A avaliação baseada apenas na leitura do código é preliminar e não comprova que todos os casos de execução funcionam corretamente.
