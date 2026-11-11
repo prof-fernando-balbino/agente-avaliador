@@ -65,9 +65,8 @@ Os seguintes arquivos são fornecidos:
 
 ## Entrega
 
-- `agente.py` implementado e funcional;
-- comentários explicativos sobre as principais instruções implementadas 
-  em `agente.py`;
+- `agente.py` implementado e funcional, com comentários explicativos sobre
+  as principais instruções implementadas;
 - evidências de execução dos testes, conforme orientado pelo professor.
 
 ## Critérios sugeridos de avaliação da atividade
